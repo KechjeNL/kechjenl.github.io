@@ -2,6 +2,7 @@ body {
     background: linear-gradient(#ff0066, pink, white);
     background-repeat: no-repeat;
     margin: 0px;
+    width: 100%;
     text-align: center;
 }
 
